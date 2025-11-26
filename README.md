@@ -2,6 +2,10 @@
 
 Aplicação simples e funcional para gerenciamento de tarefas, desenvolvida com HTML, CSS e JavaScript puro, utilizando LocalStorage para manter os dados mesmo após fechar o navegador.
 
+# 🚀 Projeto online
+Você pode ver e usar a aplicação no navegador via este link:
+#### 👉 https://lista-de-tarefas-thaiscampos.netlify.app/
+
 # 🚀 Funcionalidades
 
 ➕ Adicionar tarefas
